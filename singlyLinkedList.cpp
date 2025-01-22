@@ -1,3 +1,12 @@
+/*
+A basic implementation of a singly linked list in C++.
+
+Functions include:
+1. Insert node at head
+2. Insert node at tail
+3. Insert node after specified node
+*/
+
 #include<iostream>
 
 class Node {
