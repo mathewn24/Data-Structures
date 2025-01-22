@@ -24,6 +24,7 @@ To represent a binary tree as below:a
    / \  / \
   4  5  6  7
     /     /
+   9     15
 */
 Node* root = createNode(1);
 
